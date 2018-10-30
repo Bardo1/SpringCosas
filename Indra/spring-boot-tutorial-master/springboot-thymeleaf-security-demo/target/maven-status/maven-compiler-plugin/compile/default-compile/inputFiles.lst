@@ -1,0 +1,11 @@
+/Users/walter/Desktop/spring-boot-tutorial-master/springboot-thymeleaf-security-demo/src/main/java/net/javaguides/springbootsecurity/repositories/MessageRepository.java
+/Users/walter/Desktop/spring-boot-tutorial-master/springboot-thymeleaf-security-demo/src/main/java/net/javaguides/springbootsecurity/config/WebConfig.java
+/Users/walter/Desktop/spring-boot-tutorial-master/springboot-thymeleaf-security-demo/src/main/java/net/javaguides/springbootsecurity/entities/Role.java
+/Users/walter/Desktop/spring-boot-tutorial-master/springboot-thymeleaf-security-demo/src/main/java/net/javaguides/springbootsecurity/entities/User.java
+/Users/walter/Desktop/spring-boot-tutorial-master/springboot-thymeleaf-security-demo/src/main/java/net/javaguides/springbootsecurity/config/WebSecurityConfig.java
+/Users/walter/Desktop/spring-boot-tutorial-master/springboot-thymeleaf-security-demo/src/main/java/net/javaguides/springbootsecurity/entities/Message.java
+/Users/walter/Desktop/spring-boot-tutorial-master/springboot-thymeleaf-security-demo/src/main/java/net/javaguides/springbootsecurity/web/HomeController.java
+/Users/walter/Desktop/spring-boot-tutorial-master/springboot-thymeleaf-security-demo/src/main/java/net/javaguides/springbootsecurity/SpringbootThymeleafSecurityDemoApplication.java
+/Users/walter/Desktop/spring-boot-tutorial-master/springboot-thymeleaf-security-demo/src/main/java/net/javaguides/springbootsecurity/security/AuthenticatedUser.java
+/Users/walter/Desktop/spring-boot-tutorial-master/springboot-thymeleaf-security-demo/src/main/java/net/javaguides/springbootsecurity/security/CustomUserDetailsService.java
+/Users/walter/Desktop/spring-boot-tutorial-master/springboot-thymeleaf-security-demo/src/main/java/net/javaguides/springbootsecurity/repositories/UserRepository.java
